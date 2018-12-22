@@ -1,0 +1,25 @@
+{
+  "name": "freetool",
+  "version": "0.0.3",
+  "description": "own tool",
+  "main": "tool.ts",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "github.com/freemenL/freetool"
+  },
+  "keywords": [
+    "freetool"
+  ],
+  "author": "freemenL",
+  "license": "ISC",
+  "dependencies": {
+    "js-base64": "^2.4.9",
+    "lodash": "^4.17.11",
+    "lodash.merge": "^4.6.1"
+  },
+  "_from": "freetool@0.0.3",
+  "_resolved": "http://registry.npm.taobao.org/freetool/download/freetool-0.0.2.tgz"
+}
