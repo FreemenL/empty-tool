@@ -8,6 +8,13 @@ $ {sudo -H} npm i -g npm
 $ npm i --save freeTool
 ```
 
+
+
+## Usage
+
+### In webpack 
+Need to use tsloader to handle freetool directory
+
 freeTool export 
 ```js
 const fTool = {
