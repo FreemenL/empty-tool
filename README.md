@@ -1,21 +1,16 @@
-# freeTool v0.0.3
-
+# empty-tool v0.0.8
 ## Installation
 
 Using npm:
 ```bash
-$ {sudo -H} npm i -g npm
-$ npm i --save freeTool
+$ npm i --save empty-tool
 ```
-
-
-
 ## Usage
 
 ### In webpack 
-Need to use tsloader to handle freetool directory
+Need to use tsloader to handle empty-tool directory
 
-freeTool export 
+empty-tool export 
 ```js
 const fTool = {
   cookieUtil,
@@ -26,7 +21,7 @@ const fTool = {
 }
 ```
 
-See the [package source](https://github.com/FreemenL/freeTool) for more details.
+See the [package source](https://github.com/FreemenL/empty-tool) for more details.
 
 
 

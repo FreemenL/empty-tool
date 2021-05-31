@@ -421,11 +421,12 @@ class Storage {
 const Local = new Storage(window.localStorage);
 const Session = new Storage(window.sessionStorage);
 
-const fTool = {
+const emptyTool = {
   cookieUtil,
   Local,
   Session,
   menuTreeGenerator,
   ...method, 
 }
-export default fTool
+
+export default emptyTool;
