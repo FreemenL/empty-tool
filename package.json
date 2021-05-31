@@ -1,6 +1,6 @@
 {
   "name": "empty-tool",
-  "version": "0.0.3",
+  "version": "0.0.5",
   "description": "empty-tool",
   "main": "tool.ts",
   "scripts": {
@@ -8,10 +8,10 @@
   },
   "repository": {
     "type": "git",
-    "url": "github.com/freemenL/freetool"
+    "url": "http://github.com/freemenL/empty-tool"
   },
   "keywords": [
-    "freetool"
+    "empty-tool"
   ],
   "author": "freemenL",
   "license": "ISC",
@@ -20,6 +20,6 @@
     "lodash": "^4.17.11",
     "lodash.merge": "^4.6.1"
   },
-  "_from": "freetool@0.0.3",
-  "_resolved": "http://registry.npm.taobao.org/freetool/download/freetool-0.0.2.tgz"
+  "_from": "empty-tool@0.0.3",
+  "_resolved": "http://registry.npm.taobao.org/empty-tool/download/empty-tool-0.0.2.tgz"
 }
